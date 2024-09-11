@@ -21,7 +21,7 @@
 title: Software Design and Zen
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Any problem in computer science can be solved by another layer of indirection. - David Wheeler
+  Crafting software is like creating a universe, where logic becomes the laws of nature, interfaces form the environment, and every decision shapes how life unfolds within it.
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb

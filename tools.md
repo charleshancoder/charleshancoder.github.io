@@ -12,5 +12,5 @@ layout: default
 - Logic Apps - Logic Apps support
 
 ## Visual Studio
-- Copilot - AI pair programmer
-- Copilot Chat - AI pair programmer
+- **Copilot** - AI pair programmer
+- **Copilot Chat** - AI pair programmer

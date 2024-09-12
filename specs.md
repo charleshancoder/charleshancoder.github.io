@@ -2,6 +2,10 @@
 layout: default
 ---
 
+{% assign quote = site.data.quotes | sample %}
+> {{quote.text}}  
+>-- {{quote.author}}
+
 ## [OpenAPI Specs](https://swagger.io/specification/)
 
 > The OpenAPI Specification (OAS) defines a standard, language-agnostic interface to HTTP APIs which allows both humans and computers to discover and understand the capabilities of the service without access to source code, documentation, or through network traffic inspection. When properly defined, a consumer can understand and interact with the remote service with a minimal amount of implementation logic.

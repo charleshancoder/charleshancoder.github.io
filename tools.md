@@ -14,3 +14,8 @@ layout: default
 ## Visual Studio
 - **Copilot** - AI pair programmer
 - **Copilot Chat** - AI pair programmer
+
+
+## Notion
+
+- All-in-one workspace for notes, tasks, wikis, and databases.

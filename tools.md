@@ -15,10 +15,13 @@ layout: default
 - C# Dev Kit - C# language support
 - Logic Apps - Logic Apps support
 
-## Visual Studio
+## Visual Studio Extensions
 - **Copilot** - AI pair programmer
 - **Copilot Chat** - AI pair programmer
 
+## Postman
+- API testing and development
+- API documentation
 
 ## Notion
 

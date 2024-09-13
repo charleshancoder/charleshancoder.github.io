@@ -29,7 +29,9 @@ If the implementation is hard to explain, it's a bad idea.
 If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!
 ```
+## Convetions over Configuration (CoC)
 
+> Conventions over configuration (also known as coding by convention) is a software design paradigm used by software frameworks that attempt to decrease the number of decisions that developers need to make, gaining simplicity, but not necessarily losing flexibility.
 
 ## [C4 Architecture Model](https://c4model.com/)
 

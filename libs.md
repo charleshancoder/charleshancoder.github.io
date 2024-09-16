@@ -11,4 +11,6 @@ show_quote: true
 
 - [FluentAssertions](https://fluentassertions.com/) - provides a fluent API for asserting the results of unit tests.
 
+- [HUMANiT](https://www.nuget.org/profiles/quality-catalyst) - provides a set of libraries for building .NET applications.
+
 - [Humanizer](https://github.com/Humanizr/Humanizer) - provides human-friendly extensions for common .NET types.

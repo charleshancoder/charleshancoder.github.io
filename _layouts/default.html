@@ -1,3 +1,6 @@
+---
+show_quote: false
+---
 <!doctype html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
@@ -39,6 +42,16 @@
           <p>{{ site.description | default: site.github.project_tagline }}</p>
           <hr>
         </div>
+        {% if page.show_quote == true %}
+        <blockquote>
+          <p>
+            {% assign quote = site.data.quotes | sample %}
+            {{ quote.text }}
+            <br>
+            -- {{quote.author}}
+          </p>
+        </blockquote>
+        {% endif %}
         {{ content }}
       </section>
 

@@ -1,10 +1,7 @@
 ---
 layout: default
+show_quote: true
 ---
-{% assign quote = site.data.quotes | sample %}
-> {{quote.text}}  
-> -- {{quote.author}}
-
 
 ## [The Zen of Python](https://www.python.org/dev/peps/pep-0020/)
 

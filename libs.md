@@ -1,10 +1,7 @@
 ---
 layout: default
+show_quote: true
 ---
-
-{% assign quote = site.data.quotes | sample %}
-> {{quote.text}}  
->-- {{quote.author}}
 
 ## Useful Libraries and Packages
 

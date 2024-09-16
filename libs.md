@@ -13,3 +13,5 @@ layout: default
 - [Microsoft.Identity.Web](/libs/microsoft-identity-web.html) - simplifies authentication and authorization for Azure AD and B2C.
 
 - [FluentAssertions](https://fluentassertions.com/) - provides a fluent API for asserting the results of unit tests.
+
+- [Humanizer](https://github.com/Humanizr/Humanizer) - provides human-friendly extensions for common .NET types.

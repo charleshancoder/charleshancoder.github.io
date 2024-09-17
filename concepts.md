@@ -30,6 +30,10 @@ Namespaces are one honking great idea -- let's do more of those!
 
 > Conventions over configuration (also known as coding by convention) is a software design paradigm used by software frameworks that attempt to decrease the number of decisions that developers need to make, gaining simplicity, but not necessarily losing flexibility.
 
+## [Azure Landing Zone](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/)
+
+> An Azure Landing Zone is a set of guidelines, best practices, reference architectures, and Azure Resource Manager (ARM) templates that help you set up a cloud environment for your workloads.
+
 ## [C4 Architecture Model](https://c4model.com/)
 
 > A set of hierarchical abstractions (software systems, containers, components, and code).

@@ -30,6 +30,10 @@ Namespaces are one honking great idea -- let's do more of those!
 
 > Conventions over configuration (also known as coding by convention) is a software design paradigm used by software frameworks that attempt to decrease the number of decisions that developers need to make, gaining simplicity, but not necessarily losing flexibility.
 
+## [Azure Well-Architected Framework](https://learn.microsoft.com/en-us/azure/well-architected/pillars)
+
+> The Azure Well-Architected Framework is a set of guiding tenets that can be used to improve the quality of a workload. It is based on five pillars: Cost Optimization, Operational Excellence, Performance Efficiency, Reliability, and Security.
+
 ## [Azure Landing Zone](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/)
 
 > An Azure Landing Zone is a set of guidelines, best practices, reference architectures, and Azure Resource Manager (ARM) templates that help you set up a cloud environment for your workloads.

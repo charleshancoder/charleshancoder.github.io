@@ -1,4 +1,7 @@
-# Naming Conventions for Logic Apps
+---
+layout: post
+title: "Naming Conventions for Logic Apps"
+---
 
 Naming things well is notoriously difficult, especially in software development. It's a problem we often underestimate, yet it has far-reaching effects on readability, maintainability, and even team communication. When it comes to Logic Apps, this challenge extends further: the right naming conventions help make your integrations manageable, understandable, and scalable.
 

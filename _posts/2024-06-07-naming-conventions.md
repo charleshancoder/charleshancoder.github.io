@@ -22,7 +22,7 @@ A good naming convention doesn’t stop at identifying the resource type. It’s
 For instance:
 
 - `la-salesforce-procore` makes it clear that the Logic App integrates Salesforce with Procore.
-This simple structure conveys both the type of resource (`la-`) and its function (`salesforce-procore`).
+This simple structure conveys both the type of resource `la-` and its function `salesforce-procore`.
 
 ## Handling Scalability with Environment Naming
 

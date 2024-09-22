@@ -11,18 +11,18 @@ I've worked with Logic Apps for some time now, and through experience, I've foun
 
 A good starting point is to include resource type in the name. This might seem unnecessary at first, given that Azure itself can display the resource type in the portal, but including this information in the name has advantages.
 
-For example, when communicating within your team and writing documentations, it's clearer to use “the la-* needs some work" rather than saying "the Logic App bla ..." every time.
-
 While Microsoft recommends using `logic-` as a prefix in their best practices, I opt for `la-` for brevity. Saving those extra characters may seem minor, but over time and across large environments, it adds up.
+
+For example, when communicating within your team and writing documentations, it's clearer to use “*the la-some-integration does such ...*" rather than saying "*the Logic App bla ...*" every time.
 
 ## Conveying Purpose
 
-A good naming convention doesn’t stop at identifying the resource type. It’s just as important to capture the purpose of the resource. One effective pattern I’ve seen is using the `source-destination` format in Logic App names. This pattern highlights not only the purpose but also the flow of data or the integration’s intent.
+A good naming convention doesn’t stop at identifying the resource type. It’s just as important to capture the purpose of the resource. One effective pattern I’ve seen is using the `source-destination` format in Logic App names for integration projects. This pattern highlights not only the purpose but also the flow of data or the integration’s intent.
 
 For instance:
 
 - `la-salesforce-procore` makes it clear that the Logic App integrates Salesforce with Procore.
-This simple structure conveys both the type of resource `la-` and its function `salesforce-procore`.
+This simple structure conveys both the type of resource **la-** and its function **salesforce-procore**.
 
 ## Handling Scalability with Environment Naming
 
@@ -33,7 +33,9 @@ A few examples:
 - `dev1-la-salesforce-procore` for a Logic App in the first development environment.
 - `prod1-la-salesforce-procore` for a Logic App in the first production environment.
 
-It might be tempting to skip instance numbering for production, opting for something shorter like prod-la-salesforce-procore. However, in cases where you have multiple production environments (such as one per region), it's better to include this instance identifier.
+It might be tempting to skip instance numbering for production, opting for something shorter like `prod-la-salesforce-procore`. However, in cases where you have multiple production environments (such as one per region), it's better to include this instance identifier.
+
+Another adavnatage of including environment details in the front of the name is that it helps you quickly identify the environment when looking at a list of resources in the Azure portal.
 
 ## Host ID Collision and Why Naming Matters
 

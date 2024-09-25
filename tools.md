@@ -11,6 +11,7 @@ show_quote: true
 - Bicep - Bicep language support
 - C# Dev Kit - C# language support
 - Logic Apps - Logic Apps support
+- indent-rainbow - Indentation visualization for code files.
 
 ## Visual Studio Extensions
 - **Copilot** - AI pair programmer

@@ -13,7 +13,7 @@ When a request comes in, the API Gateway enforces policies (like throttling or a
 
 To visualize this concept, consider the following:
 
-![api-gateway](/_images/api-gateway.drawio.svg)
+![api-gateway](/images/api-gateway.drawio.svg)
 
 The API Gateway becomes the central point for all client interactions, which might seem like a risk at first glance. Isn’t this just creating a single point of failure? While that concern is valid, most cloud providers, such as Azure, offer highly available, multi-region deployments for API Gateways, ensuring resilience and fault tolerance.
 

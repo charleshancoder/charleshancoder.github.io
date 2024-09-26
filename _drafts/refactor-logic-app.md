@@ -130,8 +130,8 @@ We could further refactor the inline function to use `coalesce` function to make
 
 ```html
 
- <td>Submitted by</td><td>@{ coalesce(body('GetSubmitter')?[0]?['firstName'], null)}</td>
+ <td>Submitted by</td><td>@{ coalesce(body('GetSubmitter')?[0]?['firstName'], 'Unknown')}</td>
 
 ```
 
-The `coalesce` function returns the first non-null value from the list of arguments. In this case, it returns the first submitter's first name if there is any submitter, otherwise it returns null.
+The `coalesce` function returns the first non-null value from the list of arguments. In this case, it returns the first submitter's first name if there is any submitter, otherwise it returns `Unknown`.

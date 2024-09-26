@@ -13,7 +13,7 @@ When a request comes in, the API Gateway enforces policies (like throttling or a
 
 To visualize this concept, consider the following:
 
-![](/charleshancoder.github.io/_images/api-gateway.drawio.svg)
+![api-gateway](/images/api-gateway.drawio.svg)
 
 The API Gateway becomes the central point for all client interactions, which might seem like a risk at first glance. Isn’t this just creating a single point of failure? While that concern is valid, most cloud providers, such as Azure, offer highly available, multi-region deployments for API Gateways, ensuring resilience and fault tolerance.
 
@@ -55,9 +55,3 @@ Beyond security and decoupling, API Gateways provide several additional features
 API Gateways are often discussed in the context of microservices architectures, and for good reason. In a microservices environment, each service is small and autonomous, but this creates a challenge for client communication. Without a Gateway, clients would have to know the location and structure of every service, making it harder to evolve the system.
 
 The API Gateway provides a unified entry point that not only simplifies client interactions but also helps manage the complexity that comes with a growing number of services. It allows you to scale your system without introducing chaos.
-
-### Conclusion
-
-An API Gateway is far more than just a reverse proxy. It’s an architectural cornerstone for managing the complexities of modern distributed systems. By centralizing concerns like security, routing, and load management, the API Gateway becomes a key enabler for scalable, maintainable, and secure applications.
-
-As systems grow more distributed, particularly in cloud-native environments, the importance of an API Gateway will only increase. Whether you’re looking to simplify client interaction, secure your microservices, or bridge cloud and on-premise worlds, the API Gateway is an essential part of the solution.

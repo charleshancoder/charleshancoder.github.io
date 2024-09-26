@@ -130,7 +130,7 @@ We could further refactor the inline function to use `coalesce` function to make
 
 ```html
 
- <td>Submitted by</td><td>@{ coalesce(body('Submitters').first?['firstName'], null)}</td>
+ <td>Submitted by</td><td>@{ coalesce(body('GetSubmitter')?[0]?['firstName'], null)}</td>
 
 ```
 

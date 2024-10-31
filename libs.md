@@ -2,6 +2,9 @@
 layout: default
 show_quote: true
 ---
+## GitHub Repositories
+
+- [Developer Roadmaps](https://github.com/kamranahmedse/developer-roadmap?tab=readme-ov-file) - provides a set of roadmaps for becoming a web developer, frontend developer, backend developer, and DevOps engineer.
 
 ## Useful Packages
 

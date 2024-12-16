@@ -6,6 +6,7 @@ show_quote: true
 ## VS Code Extensions
 - Copilot - AI pair programmer
 - Copilot Chat - AI pair programmer
+- Polyglot Notebooks - Notebook support for VS Code in C#
 - Docker - Docker support
 - Azure Functions - Azure Functions support
 - Bicep - Bicep language support

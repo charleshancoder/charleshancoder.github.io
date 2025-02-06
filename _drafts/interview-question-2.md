@@ -9,7 +9,7 @@ Currently, our system needs to make separate API calls to both both system to di
 
 ## Task:
 
-Design an API that consolidates customer data from both systems into a single, unified data for internal and customer-facing applications.
+Design an API that consolidates customer data from both systems into a single, unified API for internal and customer-facing applications.
 
 Expected data model:
 

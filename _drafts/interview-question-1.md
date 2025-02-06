@@ -1,4 +1,4 @@
-# Scenario: Customer Data Sync from CRM to Billing System
+# Scenario: Customer Data Sync
 
 Our company uses two systems:
 
@@ -9,7 +9,7 @@ Currently, these systems operate independently, leading to inconsistencies in cu
 
 ## Task:
 
-Design an solution to integrate customer details between these two systems to ensure real-time data synchronization.
+Design an solution to sync customer details from CRM to the Billing System to ensure real-time data synchronization.
 
 ## System Details:
 

@@ -1,0 +1,223 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="751px" height="451px" viewBox="-0.5 -0.5 751 451" content="&lt;mxfile&gt;&lt;diagram id=&quot;srSukWox9nw9TCJaYAep&quot; name=&quot;Page-1&quot;&gt;5Vldb9owFP01eWzlJA3QxwJtt0nTqtFp3V6QwSbx5sSZbQrs1++G2CQhfLYoLZqEID6+tu+5vraPg+P34vm9xGn0WRDKHQ+RueP3Hc9zrzou/GTIIkdayAChZMQYFcCA/aUGRAadMkJVxVALwTVLq+BYJAkd6wqGpRSzqtlE8OqoKQ5pDRiMMa+j3xnRUY52AlTgHygLIzuyi0xNjK2xAVSEiZiVIP/W8XtSCJ0/xfMe5VnwbFzydndbaleOSZroQxq0jBt6YblRAlRNMREJ/HQjHXMoufAI3crFExTQJep0LPBjCQTIt0A/m2q0Ki3KpQcqWUw1lQasu2xYKDGVY+OVZ2YZy5AaqyCHMn9LzQzNeypgDLkAA0k51uy5OnXYZEC4siuCBA8mTptjZnx5xnxqOu19/VyLoxTThFBi4jaLmKaDFC/5zGBVVMO6NQbPVGo638nP1LZNRpkl5doMmxUJusKiUnK20Osj4tci0mWcsyQEcLBQmsZvHp7AfcP4tF+8ytZW2J71ddBSCupLyX+rpRTUEsfx77JPLV6QTqnKwgQ7ZpqBYy6mpJHU8dFa6rgHpk7nBKnTqUfIa3EYoJvCQ5g93Dx8BIsvKZUwOSKBwW6sDfS+Mqu1s8BEQGjK0W79mQpbcaGWpy/0iNyrdJ43M/W2o/vbR6h22t0RVvSb5E677wQ9nDL4Hk+VBtZS2dFG8rhmQQ8sIBrtfolU7nKVxk6ufawxDJZLkd3xIez55BECCvu93zDwDl+sKLJD+RtG9Vo4ztZDMlLpsozqkG0EIS46yNlk+0Lvvfs9YVLpYYJjuu5/Uf4koqQ8zLsnxfFeTn1Bz4oSjTHj5T7QOqNfMEuXBGhdoUjozPxyLOKzIknEaPuMeQhdXyD3AnlnxSmkINTkdlpxdi06J0KYEEmV2s7IBT2Ann78XHJBN93s+1HMkorRW7A85AzcMETtiCvO4FLDktWa+AKdlOElVaW0FL9pT3AhCwE7Ac2/BinQZdk1wO8HRelRwHz0L7INYKN6EyDNJnx5K44YITQBrLgu7NS5R9wHqprO26DpVleqsqZbicHXiLrrcxF1dw9fBjtEGmcwAWp/Tjbn7rf93jYuKA9YfkdtAvu2ntd1f8xOmod0uEE67j8GmvMyhBtrcmKF2Jz3aipPKgSb87wJxdccG4I1HYrJcMQkHBAnFnnN0RjlL+aGdRG0mp53sMEcDtkLE0uou31WCkX3nubkRSy97SzLSvVAmdoEyb0H7SvPw+PO8f9B26696/asZi2L2+tN4vYFL7uhWPxdtawr/enn3/4D&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <path d="M 140 40.08 L 254.19 40.23" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 259.44 40.24 L 252.44 43.73 L 254.19 40.23 L 252.45 36.73 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="20" y="10" width="120" height="60" rx="9" ry="9" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 40px; margin-left: 21px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                CRM
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="80" y="44" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    CRM
+                </text>
+            </switch>
+        </g>
+        <rect x="460" y="10" width="120" height="60" rx="9" ry="9" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 40px; margin-left: 461px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                Billing System
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="520" y="44" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Billing System
+                </text>
+            </switch>
+        </g>
+        <path d="M 370 40 L 453.63 40" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 458.88 40 L 451.88 43.5 L 453.63 40 L 451.88 36.5 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 280 20 C 256 20 250 40 269.2 44 C 250 52.8 271.6 72 287.2 64 C 298 80 334 80 346 64 C 370 64 370 48 355 40 C 370 24 346 8 325 16 C 310 4 286 4 280 20 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 40px; margin-left: 251px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                ??
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="310" y="44" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    ??
+                </text>
+            </switch>
+        </g>
+        <rect x="0" y="100" width="270" height="300" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 262px; height: 1px; padding-top: 90px; margin-left: 5px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 310px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <p>
+                                    API Operations:
+                                </p>
+                                <p>
+                                    <font style="font-size: 14px;">
+                                        GET {baseUrl}\api\customers
+                                        <br/>
+                                        GET {baseUrl}\api\customers\{id}
+                                    </font>
+                                </p>
+                                <p>
+                                    Data Model:
+                                </p>
+                                <div>
+                                    <font style="font-size: 14px;">
+                                        {
+                                    </font>
+                                </div>
+                                <div>
+                                    <font size="3">
+                                        "id": 123,
+                                    </font>
+                                </div>
+                                <div>
+                                    <font size="3">
+                                        "first_name": "John",
+                                    </font>
+                                </div>
+                                <div>
+                                    <font size="3">
+                                        "last_name": "Doe",
+                                    </font>
+                                </div>
+                                <div>
+                                    <font size="3">
+                                        "email" : "john.doe@hotmail.com",
+                                    </font>
+                                </div>
+                                <div>
+                                    <font size="3">
+                                        "dob": "2009-01-02",
+                                    </font>
+                                </div>
+                                <div>
+                                    <font size="3">
+                                        "gender": "male",
+                                    </font>
+                                </div>
+                                <div>
+                                    <font size="3">
+                                        "address": "11 XYZ, ABC Town "
+                                    </font>
+                                </div>
+                                <div>
+                                    <font size="3">
+                                        }
+                                    </font>
+                                </div>
+                                <p>
+                                    <br/>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="5" y="102" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    API Operations:...
+                </text>
+            </switch>
+        </g>
+        <rect x="460" y="90" width="290" height="360" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 282px; height: 1px; padding-top: 80px; margin-left: 465px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 370px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <p>
+                                    API Operations:
+                                </p>
+                                <p>
+                                    <font style="font-size: 14px;">
+                                        GET/POST {baseUrl}\api\clients
+                                    </font>
+                                </p>
+                                <p>
+                                    <font style="font-size: 14px;">
+                                        GET/PUT {baseUrl}\api\clients\{id}
+                                    </font>
+                                </p>
+                                <p>
+                                    Data Model:
+                                </p>
+                                <p>
+                                    <br/>
+                                    <font size="3">
+                                        {
+                                    </font>
+                                    <br/>
+                                    <font size="3">
+                                        "client_id": 1,
+                                    </font>
+                                    <br/>
+                                    <font size="3">
+                                        "given_name": "John",
+                                    </font>
+                                    <br/>
+                                    <font size="3">
+                                        "surname": "Doe",
+                                    </font>
+                                    <br/>
+                                    <font size="3">
+                                        "email" : "john.doe@hotmail.com",
+                                    </font>
+                                    <br/>
+                                    <font size="3">
+                                        "date_of_birth": "2009-01-02",
+                                    </font>
+                                    <br/>
+                                    <font size="3">
+                                        "billing_address" : {
+                                    </font>
+                                    <br/>
+                                    <font size="3">
+                                        "line1": "11 XYZ",
+                                    </font>
+                                    <br/>
+                                    <font size="3">
+                                        "line2": "ABC Town"
+                                    </font>
+                                    <br/>
+                                    <font size="3">
+                                        }
+                                    </font>
+                                    <br/>
+                                    <font size="3">
+                                        }
+                                    </font>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="465" y="92" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    API Operations:...
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Text is not SVG - cannot display
+            </text>
+        </a>
+    </switch>
+</svg>

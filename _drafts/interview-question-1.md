@@ -15,3 +15,7 @@ Design an solution to integrate customer details between these two systems to en
 
 ![system-itg](system-itg.drawio.svg)
 
+## Discussion Points:
+* How would you ensure backward compatibility if one system changes?
+* How would you test and validate the integration?
+* What potential challenges do you foresee?

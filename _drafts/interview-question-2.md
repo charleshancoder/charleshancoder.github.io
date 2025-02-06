@@ -39,3 +39,7 @@ Expected data model:
 
 ![unified-api](unified-api.drawio.svg)
 
+## Discussion Points:
+* How would you handle downstream API changes without breaking your system?
+* How would you test and validate the API responses?
+* What trade-offs would you consider between real-time and cached data retrieval?

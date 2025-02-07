@@ -5,7 +5,7 @@ Our company uses two systems:
 1. CRM System - Stores customer details, interactions, and correspodences. 
 2. Billing System - Generates invoices and stores payment details.
 
-Currently, our system needs to make separate API calls to both both system to display customer data and their billing information, causing latency issues and inconsistent data availability.
+Currently, our system needs to make separate API calls to both system to display customer data and their billing information, causing latency issues and inconsistent data availability.
 
 ## Task:
 
@@ -39,7 +39,7 @@ Expected data model:
 
 ![unified-api](unified-api.drawio.svg)
 
-## Discussion Points:
+<!-- ## Discussion Points:
 * How would you handle downstream API changes without breaking your system?
 * How would you test and validate the API responses?
-* What trade-offs would you consider between real-time and cached data retrieval?
+* What trade-offs would you consider between real-time and cached data retrieval? -->

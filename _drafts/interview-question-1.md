@@ -15,7 +15,7 @@ Design an solution to sync customer details from CRM to the Billing System to en
 
 ![system-itg](system-itg.drawio.svg)
 
-## Discussion Points:
+<!-- ## Discussion Points:
 * How would you ensure backward compatibility if one system changes?
 * How would you test and validate the integration?
-* What potential challenges do you foresee?
+* What potential challenges do you foresee? -->
